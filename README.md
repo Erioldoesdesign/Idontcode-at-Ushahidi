@@ -3,7 +3,9 @@ A repository for people who use Ushahidi's open source tools that want to contri
 
 This document (the README file) is a overview to give you some information about the project. 
 
-<b>Who are we?</b><br>
+<h2>Who are we?</h2>
+
+<br>
 
 We're a team at Ushahidi dedicated to opening up the way that people can contribute to the Ushahidi open source. 
 
