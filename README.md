@@ -17,14 +17,18 @@ We believe that if marginalized people are able to easily communicate to those w
 
 ...while simultaneously bringing global attention to their problems through the aggregation of their voices.
 
-<b>What are we doing? (And why?)</b><br>
+<h2>What are we doing? (And why?)</h2>
+
+<br>
 
 Historically, open source tech projects typically ask from contributions from developers (people who can code) or those with tech skills. However, within the charity, activist humanitarian and international/national development community we know that there is deep, meaningful insight that helps us all understand the challenges organisations and people face across the globe. 
 
 Often, the people working on the technology products (from designers to researchers, developers to product managers) are anware of how vital certain functions and features could be to certain types of humanitarian work.
 With this project, we hope to facilitate a way that people with the experience, knowledge, stories and insight into the challenges faced across the global can offer this information in order to inform the way that a technology product is developed and grows in order to do good.
 
-<b>What do we need?</b><br>
+<h2>What do we need?</h2>
+
+<br>
 
 We need a variety of people to help with this effort you could be:
 
@@ -38,7 +42,9 @@ We need a variety of people to help with this effort you could be:
 </ul>
 
 
-<b>Get in touch</b><br>
+<h2>Get in touch</h2>
+<br>
+
 If you want to know more, get in touch with me at eriol@ushahidi.com or you can join our community channels to ask questions:
 <ul>
 	<li> <a href="http://forums.ushahidi.com/">Our forum</a></li>
@@ -49,7 +55,9 @@ If you want to know more, get in touch with me at eriol@ushahidi.com or you can 
 		<li>Gitter at <a href="https://gitter.im/ushahidi/community"></a><a href="https://gitter.im/ushahidi/community" target="_blank">ushahidi/Community</a></li><li><a href="https://join.skype.com/S9t68IVKzwo8">Skype</a></li></ul></li></ul><ul><li>Messages to any of these channels should show up on all of them!</li></ul></article>
 
 
-<b>Understand the jargon</b><br>
+<h2>Understand the jargon</h2>
+
+<br>
 
 <ul>
   <li>Ushahidi: </li>
