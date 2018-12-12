@@ -42,6 +42,12 @@ Unsure where to begin contributing to I don't code @ Ushahidi? You can start by 
 * [good-first-issue] - Issues that are ideal for first time contributors to OSS or first time contributing to the platform.
 * [Needs story] - Issues that are hypothesis based from the Ushahidi team that are in need of real world stories to validate their need.
 
+### How to 'pull' 'push' and change the documents here
+
+There's no pressure to be used to how things work on github. Part of this project is finding a way where those who don't want to 'code' don't have to come anywhere near a 'github' 'branch' or 'repo', but to deliver and contribute the subject or topics of expertise in a way that feels natural, non-daunting and achieveable. Fostering that sense of 'contribution' that open source projects thrive on.
+
+You can find information on how to [clone a repo] () [pull] () [push] () [branch] () and many other [git related topics here] () for now, we're concentrating on setting the basics up!
+
 
 ### Documentation Styleguide
 
@@ -58,6 +64,13 @@ TBC
 ### Comment Styleguide
 
 #### Example
+
+TBC
+
+
+## Becoming a project maintainer
+
+### Recognition
 
 TBC
 
